@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    font-size: x-large;
+    color: navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornsilk;
+}
+
+body {
+    text-align: center;
+}
+
+.media {
+    display: inline;
+}
+
+
+

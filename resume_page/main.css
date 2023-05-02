@@ -10,7 +10,6 @@ h3 {
     text-align: center;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: cornsilk;
 }
 
 body {
@@ -21,5 +20,7 @@ body {
     display: inline;
 }
 
-
+.nav {
+    background-color: cornsilk;
+}
 
